@@ -32,12 +32,10 @@ Clone all you own repositories or github user open repositories.
 ## Usage
 
 ### Command-line arguments
-```
     -h, --help     help message
     --token TOKEN  You GitHub auth token (required)
     --user USER    GitHub username to clone from (not required)
-    --path PATH    Path to save repos (required)
-```    
+    --path PATH    Path to save repos (not required)
 
 ### Examples
 
